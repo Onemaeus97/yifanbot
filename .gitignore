@@ -1,0 +1,3 @@
+# Ignore large model and DB artifacts
+notebooks/db_chroma
+notebooks/lora-Qwen2.5-7B/
