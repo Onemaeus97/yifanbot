@@ -1,0 +1,23 @@
+# Core LLM & Hugging Face ecosystem
+transformers>=4.42.0
+datasets>=2.19.0
+peft>=0.11.1
+accelerate>=0.31.0
+bitsandbytes>=0.43.1
+sentencepiece
+protobuf
+
+# TRL for SFT training
+trl>=0.9.6
+
+# Retrieval-Augmented Generation (RAG)
+chromadb>=0.4.24
+sentence-transformers>=2.2.2
+
+# Gradio UI
+gradio>=4.29.0
+
+# Utilities
+numpy
+pandas
+tqdm
